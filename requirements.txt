@@ -1,4 +1,4 @@
 pip
 numpy
 matplotlib
-Axes3D
+mpl_toolkits.mplot3d
